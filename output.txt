@@ -1,0 +1,15 @@
+# Jerry @ JerrysMacBookAir in ~/PycharmProjects/CMPE273-lab2/venv [22:07:21] C:1
+$ python calc_client.py
+Welcome to simple adder!
+Please input the first number: 3
+Please input the second number: 4
+3.0  +  4.0  =  7.0
+(venv)
+
+# Jerry @ JerrysMacBookAir in ~/PycharmProjects/CMPE273-lab2/venv [22:08:01]
+$ python calc_client.py
+Welcome to simple adder!
+Please input the first number: 2.3
+Please input the second number: 3.4
+2.3  +  3.4  =  5.699999999999999
+(venv)
