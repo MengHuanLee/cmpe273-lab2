@@ -1,0 +1,18 @@
+// RPC Service for calculator
+// Implemented add function
+
+syntax = "proto3";
+
+service Calculator {
+    rpc add (AddRequest) returns (AddResult){}
+
+}
+message AddRequest {
+    double num1 = 1;
+    double num2 = 2;
+}
+
+message AddResult {
+    double result = 1;
+
+}
